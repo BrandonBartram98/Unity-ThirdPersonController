@@ -6,7 +6,7 @@ Third person control scripts for velocity based movement.
 - `git clone https://github.com/BrandonBartram98/Unity-ThirdPersonController` - Clone project
 - Import scripts into Unity project.
 
-### :panda_face: Stack
+### :panda_face: Packages
 - [`react`](https://reactjs.org) &ndash; A JavaScript library for building user interfaces.
 - [`vite`](https://vitejs.dev) &ndash; A fast build tool with Hot Module Reload (HMR)
 - [`threejs`](https://github.com/mrdoob/three.js/) &ndash; A lightweight 3D library with a default WebGL renderer.
