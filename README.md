@@ -10,11 +10,7 @@ Third person control scripts for velocity based movement
 - Add your character model as a child of 'Player'
 - Set appropritate script parameters in the inspector
 
-Optional Steps
-- Import [`cinemachine`](https://unity.com/unity/features/editor/art-and-design/cinemachine) via package manager and add a free-look camera
-
-### :panda_face: Packages
-- [`cinemachine`](https://unity.com/unity/features/editor/art-and-design/cinemachine) &ndash; Suite of tools for dynamic and smart cameras (Optional)
+- Import [`cinemachine`](https://unity.com/unity/features/editor/art-and-design/cinemachine) via package manager and add a free-look camera (Optional)
 
 ### :ghost: Contribute
 
